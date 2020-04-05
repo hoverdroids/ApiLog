@@ -3,8 +3,6 @@ plugins {
     id 'kotlin-android'
     id 'kotlin-android-extensions'
 }
-//TODO - Automatically push the to maven
-//apply from: 'https://raw.github.com/chrisbanes/gradle-mvn-push/master/gradle-mvn-push.gradle'
 
 android {
     compileSdkVersion 29
