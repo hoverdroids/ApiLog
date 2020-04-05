@@ -1,4 +1,4 @@
-package com.hoverdroids.apilog
+package com.hoverdroids.apilogdemo
 
 import android.os.Bundle
 import com.google.android.material.snackbar.Snackbar

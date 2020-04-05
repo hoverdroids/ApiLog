@@ -1,4 +1,4 @@
-package com.hoverdroids.apilog
+package com.hoverdroids.apilogdemo
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment

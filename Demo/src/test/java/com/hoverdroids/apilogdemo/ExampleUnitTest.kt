@@ -1,4 +1,4 @@
-package com.hoverdroids.apilog
+package com.hoverdroids.apilogdemo
 
 import org.junit.Test
 
