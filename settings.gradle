@@ -1,3 +1,4 @@
+include ':apilogview'
 include ':apilog'
 include ':demo'
 rootProject.name = "ApiLog"

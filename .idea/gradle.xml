@@ -12,6 +12,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/apilog" />
+            <option value="$PROJECT_DIR$/apilogview" />
             <option value="$PROJECT_DIR$/demo" />
           </set>
         </option>
